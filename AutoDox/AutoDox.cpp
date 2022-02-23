@@ -15,7 +15,9 @@ int main()
 	int i = std::stoi(option);
 	std::string option1;
 	std::string option2;
-	std::cout << "\x1B[2J\x1B[H";
+	std::system("cls");
+
+
 
 
 	switch(i)
