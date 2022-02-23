@@ -1,4 +1,4 @@
-# AutoDox Tool
+# AutoDox Tool - [Download .exe here](https://github.com/fknMega/Auto-doxxing-tool/releases/tag/Releases)
 
 ### Using a new method I made to get full address of any discord & instagram acc
 
