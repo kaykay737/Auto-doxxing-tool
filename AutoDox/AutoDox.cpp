@@ -6,6 +6,8 @@
 #include <algorithm>
 #include <chrono>
 #include <thread>
+#include <windows.h>
+#include <shellapi.h>
 
 int main()
 {
@@ -30,6 +32,8 @@ int main()
 
 		std::this_thread::sleep_for(std::chrono::milliseconds(5000));
 		std::cout << "You got pranked lmao";
+		ShellExecute(0, 0, L"https://www.youtube.com/watch?v=dQw4w9WgXcQ", 0, 0, SW_SHOW);
+
 		while (true) {
 
 		}
@@ -42,6 +46,8 @@ int main()
 
 		std::this_thread::sleep_for(std::chrono::milliseconds(5000));
 		std::cout << "You got pranked lmao";
+		ShellExecute(0, 0, L"https://www.youtube.com/watch?v=dQw4w9WgXcQ", 0, 0, SW_SHOW);
+
 		while (true) {
 
 		}
