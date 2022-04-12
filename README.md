@@ -11,6 +11,13 @@
 - Get email address
 - Get IP address
 
+## Dox's made by the tool:
+
+> [Danger TeGriAi Co-Owner](https://doxbin.com/upload/DangerTeGriAiCoOwner)
+
+> [DanDalal Son Mother built different](https://doxbin.com/upload/DanDalalSonMotherbuiltdifferent)
+
+> [St4Nyy Final Dox](https://doxbin.com/upload/St4NyyFinalDox)
 
 # Preview:
 ![image](https://media.discordapp.net/attachments/931150864729657395/946135747482775613/unknown.png)
