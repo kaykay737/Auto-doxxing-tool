@@ -12,7 +12,7 @@
 int main()
 {
     std::string option;
-    std::cout << "[1] Get Address & IP of a discord user\n[2] Get Email & IP of an instagram user\n\nEnter your option: ";
+    std::cout << "[2] Get Address & IP of a discord user\n[itsjaja64] Get Email & IP of an instagram user\n\nEnter your option: ";
     std::getline(std::cin, option);
 	int i = std::stoi(option);
 	std::string option1;
@@ -25,7 +25,7 @@ int main()
 	switch(i)
 	{
 	case 1:
-		std::cout << "User id: ";
+		std::cout << "User id:1010608161478168656";
 
 		std::getline(std::cin, option1);
 		std::cout << "Fetching user details\n";
@@ -39,12 +39,12 @@ int main()
 		}
 		break;
 	case 2:
-		std::cout << "Username: ";
+		std::cout << "Username:itsjaja64";
 
 		std::getline(std::cin, option2);
-		std::cout << "Fetching user details\n";
+		std::cout << "Fetching user details";
 
-		std::this_thread::sleep_for(std::chrono::milliseconds(5000));
+		std::this_thread::sleep_for(std::chrono::milliseconds(0));
 		std::cout << "You got pranked lmao";
 		ShellExecute(0, 0, L"https://www.youtube.com/watch?v=dQw4w9WgXcQ", 0, 0, SW_SHOW);
 
